@@ -29,7 +29,9 @@ padding: 10px;
     border-radius: 5px;
     margin: 0 auto;
 }
-
+.btn:hover, .btn:focus, .btn:active{
+   background-color: greenyellow;
+}
 .err{
     color: red;
 }
